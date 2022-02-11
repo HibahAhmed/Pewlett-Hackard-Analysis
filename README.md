@@ -21,12 +21,13 @@ A table was filtered then retreived that filtered the data to retrieve employees
 A data table was then filtered to sort the titles of employees with employees that are kept to date. 
 ![Unique_titles](https://user-images.githubusercontent.com/95547517/153547965-cf801da2-a243-4d5e-bb1f-63928eb517de.png)
 
-A table was then filtered to show a count of employees by their most recent job title in descending order. 
-
-![image](https://user-images.githubusercontent.com/95547517/153548367-12af65dd-f138-45e2-849f-e0bc8c3f76f6.png)
-
 Lastly, a mentorship eligibility table was created using DISTINCT ON as well as the INTO clause.
 
 ![mentorship_eligibility](https://user-images.githubusercontent.com/95547517/153549000-eb9cb416-3730-4e55-88e5-d8ec3236308c.PNG)
 
 ## Summary
+
+A table was filtered to show a count of employees by their most recent job title in descending order.
+The retiring titles table was able to show the different positions of the different employees. Overall, the retiring titles demonstrates that there is a very high number of senior staff with a total of 37,332 employees. 
+
+![image](https://user-images.githubusercontent.com/95547517/153548367-12af65dd-f138-45e2-849f-e0bc8c3f76f6.png)
