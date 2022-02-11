@@ -28,6 +28,6 @@ Lastly, a mentorship eligibility table was created using DISTINCT ON as well as 
 ## Summary
 
 A table was filtered to show a count of employees by their most recent job title in descending order.
-The retiring titles table was able to show the different positions of the different employees. Overall, the retiring titles demonstrates that there is a very high number of senior staff with a total of 37,332 employees. 
+The retiring titles table was able to show the different positions of the different employees. Overall, the retiring titles demonstrates that there is a very high number of senior staff with a total of 37,332 employees. There is a total of 90398 and of those were 37,332 as mentioned before. (37,332/90,398) x 100 = 41.3% of the staff will be retiring. Because of a fairly high number of senior positions, there is a posibility of needing to create a hiring process in the future generation of Pewlett Hackard employees.
 
 ![image](https://user-images.githubusercontent.com/95547517/153548367-12af65dd-f138-45e2-849f-e0bc8c3f76f6.png)
