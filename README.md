@@ -2,7 +2,7 @@
 
 ## Overview 
 
-The Pewlett Hackard analysis was performed on the company data of mentorship eligibilities and the employee data to create entity relationship diagrams, and manage tables with writing SQL queries. 
+The Pewlett Hackard analysis was performed on the company data of mentorship eligibilities and the employee data. This led to creating entity relationship diagrams, and manage tables with writing SQL queries. 
 
 ## Resources
 
