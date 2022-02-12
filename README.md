@@ -23,7 +23,7 @@ A data table was then filtered to sort the titles of employees with employees th
 
 Lastly, a mentorship eligibility table was created using DISTINCT ON as well as the INTO clause.
 
-![mentorship_eligibility](https://user-images.githubusercontent.com/95547517/153549000-eb9cb416-3730-4e55-88e5-d8ec3236308c.PNG)
+![image](https://user-images.githubusercontent.com/95547517/153689768-99b61abe-5f10-4947-897e-49d4b5f1ebe8.png)
 
 ## Summary
 
