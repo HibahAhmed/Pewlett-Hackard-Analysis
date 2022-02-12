@@ -56,7 +56,7 @@ SELECT DISTINCT ON (emp.emp_no) emp.emp_no,
 					ON (emp.emp_no = de.emp_no)
 					INNER JOIN titles AS t
 					ON (emp.emp_no = t.emp_no)
-					WHERE (de.to_date = '9999-01-01') AND 
+					WHERE (t.to_date = '9999-01-01') AND 
 	 				(emp.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 					ORDER BY emp.emp_no;
 					SELECT * FROM mentorship_eligibility;
